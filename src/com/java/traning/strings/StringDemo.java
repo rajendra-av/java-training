@@ -1,4 +1,4 @@
-package com.java.traning;
+package com.java.traning.strings;
 
 public class StringDemo {
 
